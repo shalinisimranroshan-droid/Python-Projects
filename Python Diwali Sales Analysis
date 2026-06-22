@@ -168,9 +168,44 @@
         "1+5\n"
       ],
       "metadata": {
-        "id": "eq_KjKAMB-tz"
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "eq_KjKAMB-tz",
+        "outputId": "95896f12-2274-420c-9e16-59f1add1a733"
       },
       "id": "eq_KjKAMB-tz",
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "6"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "TT5NRPzqCitX"
+      },
+      "id": "TT5NRPzqCitX",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "ZtbPYwIvCy3X"
+      },
+      "id": "ZtbPYwIvCy3X",
       "execution_count": null,
       "outputs": []
     }
